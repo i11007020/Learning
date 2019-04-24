@@ -8,4 +8,4 @@ Use IntelliJ Community to practice.
 快速複寫父類別
 
 ### 2.Ctrl + Alt + T 
-快速選擇try catch
+快速選擇try catch 或 if else ...等等
